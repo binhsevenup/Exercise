@@ -1,0 +1,11 @@
+E:\riderProject\Exercise1\Exercise1\obj\Debug\netcoreapp2.2\Exercise1.csprojAssemblyReference.cache
+E:\riderProject\Exercise1\Exercise1\obj\Debug\netcoreapp2.2\Exercise1.csproj.CoreCompileInputs.cache
+E:\riderProject\Exercise1\Exercise1\obj\Debug\netcoreapp2.2\Exercise1.AssemblyInfoInputs.cache
+E:\riderProject\Exercise1\Exercise1\obj\Debug\netcoreapp2.2\Exercise1.AssemblyInfo.cs
+E:\riderProject\Exercise1\Exercise1\bin\Debug\netcoreapp2.2\Exercise1.deps.json
+E:\riderProject\Exercise1\Exercise1\bin\Debug\netcoreapp2.2\Exercise1.runtimeconfig.json
+E:\riderProject\Exercise1\Exercise1\bin\Debug\netcoreapp2.2\Exercise1.runtimeconfig.dev.json
+E:\riderProject\Exercise1\Exercise1\bin\Debug\netcoreapp2.2\Exercise1.dll
+E:\riderProject\Exercise1\Exercise1\bin\Debug\netcoreapp2.2\Exercise1.pdb
+E:\riderProject\Exercise1\Exercise1\obj\Debug\netcoreapp2.2\Exercise1.dll
+E:\riderProject\Exercise1\Exercise1\obj\Debug\netcoreapp2.2\Exercise1.pdb
